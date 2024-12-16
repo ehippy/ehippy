@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ehippy
 - 👀 I’m interested in SaaS development, career development and leadership.
+- I make the game [Infight.io](http://infight.io) that you play with your Discord friends. Check it out!
 
 <!---
 - 🌱 I’m currently learning ...
